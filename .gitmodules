@@ -1,0 +1,3 @@
+[submodule "Adafruit_BMP3XX_pico"]
+	path = Adafruit_BMP3XX_pico
+	url = git@github.com:karaketir16/Adafruit_BMP3XX_pico.git
